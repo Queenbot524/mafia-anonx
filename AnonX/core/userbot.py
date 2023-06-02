@@ -142,7 +142,7 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.four.join_chat("QUEEN_SUPPORTS_CHAT")
-                await self.four.join_chat("QUEEN_NETWORKD")
+                await self.four.join_chat("QUEEN_NETWORK")
             except:
                 pass
             assistants.append(4)
