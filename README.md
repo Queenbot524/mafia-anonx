@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 MAFIA ダ REMIX 」──
 </h2>
 
 <p align="center">
